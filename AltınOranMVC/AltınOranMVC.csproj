@@ -94,7 +94,6 @@
     <Content Include="Content\scripts\jquery.flexslider-min.js" />
     <Content Include="Content\scripts\jquery.min.js" />
     <Content Include="Content\scripts\jquery.mobilemenu.js" />
-    <Content Include="Content\styles\custom.flexslider.css" />
     <Content Include="Content\styles\font-awesome.min.css" />
     <Content Include="Content\styles\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\styles\fonts\index.html" />
@@ -122,6 +121,7 @@
     <Content Include="images\7.jpg" />
     <Content Include="images\8.jpg" />
     <Content Include="images\9.jpg" />
+    <Content Include="images\yapim.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

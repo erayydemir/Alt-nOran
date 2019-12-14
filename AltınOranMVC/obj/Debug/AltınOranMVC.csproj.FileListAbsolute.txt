@@ -42,4 +42,3 @@ C:\Users\merve\Source\Repos\Alt-nOran\AltınOranMVC\obj\Debug\AltınOranMVC.cspr
 C:\Users\merve\Source\Repos\Alt-nOran\AltınOranMVC\obj\Debug\AltınOranMVC.csproj.CopyComplete
 C:\Users\merve\Source\Repos\Alt-nOran\AltınOranMVC\obj\Debug\AltınOranMVC.dll
 C:\Users\merve\Source\Repos\Alt-nOran\AltınOranMVC\obj\Debug\AltınOranMVC.pdb
-C:\Users\merve\Source\Repos\Alt-nOran\AltınOranMVC\obj\Debug\AltınOranMVC.csprojAssemblyReference.cache
