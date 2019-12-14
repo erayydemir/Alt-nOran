@@ -6,14 +6,12 @@ using System.Web.Mvc;
 
 namespace AltınOranMVC.Controllers
 {
-    public class HomeController : Controller
+    public class ReferenceController : Controller
     {
-        // GET: Home
+        // GET: Reference
         public ActionResult Index()
         {
             return View();
         }
-        
-
     }
 }
